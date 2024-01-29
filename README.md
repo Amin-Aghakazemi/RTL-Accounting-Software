@@ -6,41 +6,48 @@ A complete right-to-left accounting software developed by [Amin Aghakazemi](http
 
 Welcome to the RTL Accounting repository.
 
-<p align="center">
-  <img src="image1.png" height="400px" alt="App Screenshot">
-</p>
-
 RTL Accounting Software is a finance management Windows application tailored for small businesses, designed to handle specific spending and income transactions effectively. 
-
-
-<p align="center">
-  <img src="image2.png" height="400px" alt="App Screenshot">
-</p>
-
 
 Small businesses can easily define their specific income and expenditure items, and then add each purchase or sale made within their business.
 
 
 <p align="center">
-  <img src="image4.png" height="400px" alt="App Screenshot">
+  <img src="image4.png" height="350px" alt="App Screenshot">
 </p>
+
+
+Adding each sale made within the business is as simple as shown in the screenshot below.
+
+
+<p align="center">
+  <img src="image1.png" height="350px" alt="App Screenshot">
+</p>
+
+
+And adding each purchase (expenditure) is as simple as the screenshot below.
+
+
+<p align="center">
+  <img src="image2.png" height="350px" alt="App Screenshot">
+</p>
+
 
 There's also an analytics section available to review totals and other relevant data.
 
 
 <p align="center">
-  <img src="image3.png" height="400px" alt="App Screenshot">
+  <img src="image3.png" height="350px" alt="App Screenshot">
 </p>
 
-And there's also a 'Documentation' section where developers can include any educational content they wish to add.
+And there's a 'Documentation' section where developers can include any educational content they wish to add.
 
 
 <p align="center">
-  <img src="image5.png" height="400px" alt="App Screenshot">
+  <img src="image5.png" height="350px" alt="App Screenshot">
 </p>
 
 
-The project features clean and structured code, built within the framework of a Three-Layer Architecture. This architecture divides the application into three logical layers:
+The project includes clean and structured code, built within the Three-Layer Architecture. This architecture divides the application into three logical layers:
 
 - Presentation Layer: Handles user interaction and interface.
 - Business Logic Layer: Manages business rules and logic.
@@ -50,7 +57,7 @@ This separation enhances maintainability, scalability, and code reusability, ens
 
 
 <p align="center">
-  <img src="image6.png" height="400px" alt="App Screenshot">
+  <img src="image6.png" height="350px" alt="App Screenshot">
 </p>
 
 
