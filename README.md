@@ -7,7 +7,7 @@ A complete right-to-left accounting software developed by [Amin Aghakazemi](http
 Welcome to the RTL Accounting repository.
 
 <p align="center">
-  <img src="image1.jpg" height="400px" alt="App Screenshot">
+  <img src="image1.png" height="400px" alt="App Screenshot">
 </p>
 
 RTL Accounting Software is a finance management Windows application tailored for small businesses, designed to handle specific spending and income transactions effectively. 
