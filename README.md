@@ -12,7 +12,7 @@ Small businesses can easily define their specific income and expenditure items, 
 
 
 <p align="center">
-  <img src="image4.png" height="350px" alt="App Screenshot">
+  <img src="image4.png" style="width: 70%; height: auto;"style="width: 80%; height: auto;" alt="App Screenshot">
 </p>
 
 
@@ -20,7 +20,7 @@ Adding each sale made within the business is as simple as shown in the screensho
 
 
 <p align="center">
-  <img src="image1.png" height="350px" alt="App Screenshot">
+  <img src="image1.png" style="width: 70%; height: auto;" alt="App Screenshot">
 </p>
 
 
@@ -28,7 +28,7 @@ And adding each purchase (expenditure) is as simple as the screenshot below.
 
 
 <p align="center">
-  <img src="image2.png" height="350px" alt="App Screenshot">
+  <img src="image2.png" style="width: 70%; height: auto;" alt="App Screenshot">
 </p>
 
 
@@ -36,14 +36,14 @@ There's also an analytics section available to review totals and other relevant 
 
 
 <p align="center">
-  <img src="image3.png" height="350px" alt="App Screenshot">
+  <img src="image3.png" style="width: 70%; height: auto;" alt="App Screenshot">
 </p>
 
 And there's a 'Documentation' section where developers can include any educational content they wish to add.
 
 
 <p align="center">
-  <img src="image5.png" height="350px" alt="App Screenshot">
+  <img src="image5.png" style="width: 70%; height: auto;" alt="App Screenshot">
 </p>
 
 
@@ -57,7 +57,7 @@ This separation enhances maintainability, scalability, and code reusability, ens
 
 
 <p align="center">
-  <img src="image6.png" height="350px" alt="App Screenshot">
+  <img src="image6.png" style="width: 70%; height: auto;" alt="App Screenshot">
 </p>
 
 
